@@ -34,7 +34,7 @@ export default function Hero() {
           Military-grade UAV systems built for precision, autonomy, and reliability.
         </p>
         <motion.button
-            className="bg-[#ff7b00] hover:bg-orange-500 text-black px-8 py-4 text-lg rounded font-semibold"
+            className="bg-[#ff8800] hover:bg-orange-500 text-black px-8 py-4 text-lg rounded font-semibold"
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.95 }}
             onHoverStart={() => console.log('hover started!')}
